@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+Анатолий Пенюта
+*/
 
 void D2B (int n)
 {
